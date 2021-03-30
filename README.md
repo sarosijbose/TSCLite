@@ -10,8 +10,11 @@ This repository contains two lightweight Traffic sign classification implementat
 To learn more about the features which our model offers, it's advantages and how it can be socially useful in a number of applications, see [purpose advantage.txt]()
 
 ## Demo Illustrations:-
-1. <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss1.jpg">
-2. <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss2.jpg">
+ <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss1.jpg">
+ 
+ <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss2.jpg">
+ 
+ <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/video.mp4">
 
 ## Environment requirements:-
 Please see the [requirements.py]() file to know and install the necessary libraries.

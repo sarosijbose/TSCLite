@@ -49,6 +49,11 @@ After converting the model to ONNX format, run the following commands in windows
 ```
 path to openvino\bin\setupvars.bat
 ```
+For linux based systems, use this.
+```
+source  path to openvino\bin\setupvars.sh
+```
+
 *Generate the .xml and .bin files by running the Inference engine.*
 ```
 path to openvino\deployment_tools\model_optimizer\mo.py --input_model <path to model.onnx> --input_shape[1,32,32,1]

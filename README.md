@@ -17,7 +17,7 @@ To learn more about the features which our model offers, it's advantages and how
  <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/vid.gif">
 
 ## Environment requirements:-
-Please see the [requirements.py]() file to know and install the necessary libraries.
+Please see the [requirements.py](https://github.com/sarobml2000/TSCLite/blob/main/requirements.py) file to know and install the necessary libraries.
 
 ## Project Setup:-
 ### 1. Getting started.

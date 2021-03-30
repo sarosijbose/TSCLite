@@ -51,7 +51,8 @@ path to openvino\bin\setupvars.bat
 ```
 For linux based systems, use this.
 ```
-source  path to openvino\bin\setupvars.sh
+cd path to openvino\bin
+source ./setupvars.sh
 ```
 
 *Generate the .xml and .bin files by running the Inference engine.*

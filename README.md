@@ -14,7 +14,7 @@ To learn more about the features which our model offers, it's advantages and how
  
  <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss2.jpg">
  
- <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/video.mp4">
+ <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/vid.gif">
 
 ## Environment requirements:-
 Please see the [requirements.py]() file to know and install the necessary libraries.

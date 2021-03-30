@@ -33,7 +33,7 @@ Run the notebook as given below. The created tsc_model.h5 file will be used late
 cd TSCLite\code
 jupyter notebook TSC_Tensorflow.ipynb
 ```
-The model is also avaliable within the dependencies folder.
+The compiled model(in .h5 format) is avaliable within the dependencies folder.
 ```
 cd TSCLite\dependencies
 ```

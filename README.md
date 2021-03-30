@@ -74,9 +74,9 @@ jupyter notebook TSC_without_OpenVINO.ipynb
 ## Model Performance:-
 Reduced the number of training epochs to achieve standard results, We repeatedly tweaked the model until I attained the optimum results.
 Here's the loss and accuracy plotted against the number of epochs.
-<img src ="https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/loss.jpg">
+<img src ="https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/loss.jpg", height = 75px, width = 75px>
 
-<img src ="https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/acc.jpg">
+<img src ="https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/acc.jpg", height = 75px, width = 75px>
 
 ## Hardware used:-
 The project was carried out with the following system specifications,  

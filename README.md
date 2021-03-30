@@ -58,7 +58,7 @@ These are also provided inside the external folder.
 ```
 cd TSCLite\external
 ```
-### 5. Running the notebook without OpenVINO support.(Optional)
+### 5. Running the notebook without OpenVINO support. (Optional)
 Copy the labels.csv file into the working directory from the dependencies folder. 
 Run the notebook.
 ```

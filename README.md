@@ -71,6 +71,10 @@ Run the notebook.
 cd TSCLite\code
 jupyter notebook TSC_without_OpenVINO.ipynb
 ```
+## Model Performance:-
+Reduced the number of training epochs to achieve standard results, I repeatedly redisgned and tweaked the model until I attained the optimum results.
+Here's the loss and accuracy plotted against the number of epochs.
+
 ## Hardware used:-
 The project was carried out with the following system specifications,  
 OS: Windows 10 64 bit Home.  

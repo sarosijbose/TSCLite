@@ -7,7 +7,7 @@
 ## Short Description:-
 This repository contains two lightweight Traffic sign classification implementations which can predict Traffic signs from any real time video feed. Here, a model based on an slightly enhanced LeNet architecture has been used and trained on the [German Traffic Sign Dataset (GTSD)](https://benchmark.ini.rub.de/gtsrb_dataset.html) which has over 70000 images of traffic signs and over 40 various classes. Our model achieves a validation accuracy of over 98% and a training accuracy of over 97%. This saved model is then optimized over the [Intel OpenVINO](https://docs.openvinotoolkit.org/latest/index.html#index) Model Optimizer + Inference Engine and run directly for predicting Traffic signs live from any video source(we have used webcam for our run). We have also provided a non optimized solution for comparison purposes.
 
-To learn more about the features which our model offers, it's advantages and how it can be socially useful in a number of applications, see [purpose advantage.txt]()
+To learn more about the features which our model offers, it's advantages and how it can be socially useful in a number of applications, see [Project Details]()
 
 ## Demo Illustrations:-
  <img src = "https://github.com/sarobml2000/TSCLite/blob/main/sample%20output/ss1.jpg">

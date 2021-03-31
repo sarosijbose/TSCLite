@@ -1,4 +1,4 @@
-# TSCLite: A powerful and lightweight Traffic Sign Classification model
+# TSCLite: A powerful and lightweight Traffic Sign Classification model Implementation
 
 *Contributors: [Avirup Dey](https://www.linkedin.com/in/avirup-dey-4213a81ab/) (Jadavpur University) and [Sarosij Bose](https://www.linkedin.com/in/sarosijbose/) (University of Calcutta).*
 

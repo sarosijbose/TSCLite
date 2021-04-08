@@ -50,7 +50,7 @@ path to openvino\bin\setupvars.bat
 ```
 For linux based systems, use this.
 ```
-cd path to openvino\bin
+cd path to openvino/bin
 source ./setupvars.sh
 ```
 

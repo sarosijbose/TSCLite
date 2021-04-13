@@ -58,8 +58,14 @@ source ./setupvars.sh
 ```
 path to openvino\deployment_tools\model_optimizer\mo.py --input_model <path to model.onnx> --input_shape[1,32,32,1]
 ```
-Once the .xml and .bin files are created, cd them to your working directory and run the rest of the code.
-These are also provided inside the external folder.
+Once the .xml and .bin files are created, cd them to your working directory and run the rest of the code. Make sure you provide the correct 
+path to these files in the following lines of the notebook:
+```
+ie = IECore()
+    net = ie.read_network(model=r"<path to xml file>", weights=r"<path to bin file>")
+    exec_net = ie.load_network(network=net, device_name="CPU")
+```
+These files are also provided inside the external folder.
 ```
 cd TSCLite\external
 ```

@@ -58,7 +58,7 @@ source ./setupvars.sh
 ```
 path to openvino\deployment_tools\model_optimizer\mo.py --input_model <path to model.onnx> --input_shape[1,32,32,1]
 ```
-Once the .xml and .bin files are created, cd them to your working directory and run the rest of the code. Make sure you provide the correct 
+Once the ```.xml``` and ```.bin``` files are created, cd them to your working directory and run the rest of the code. Make sure you provide the correct 
 path to these files in the following lines of the notebook:
 ```
 ie = IECore()

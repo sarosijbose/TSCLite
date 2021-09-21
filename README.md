@@ -1,5 +1,7 @@
 # TSCLite: A powerful and lightweight Traffic Sign Classification model Implementation
 
+**NOTE: This project won the first prize in AI Enterpreneural 2021, a deep learning competition organized by IIT Kharagpur and sponsored by Intel.**
+
 *Contributors: [Avirup Dey](https://www.linkedin.com/in/avirup-dey-4213a81ab/) (Jadavpur University) and [Sarosij Bose](https://www.linkedin.com/in/sarosijbose/) (University of Calcutta).*
 
 
